@@ -1,0 +1,65 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: KAMI <kami911@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 179.GuiPanel.Title
+msgid "Edit"
+msgstr "Szerkesztés"
+
+#: 181.GuiPanel.CommandButton1.Label
+msgid "Add shape"
+msgstr "Alakzat hozzáadása"
+
+#: 182.GuiPanel.CommandButton2.HelpText
+msgid "Assign a shape and remove"
+msgstr "Alakzat hozzárendelése és eltávolítás"
+
+#: 183.GuiPanel.CommandButton2.Label
+msgid "Remove shape"
+msgstr "Alakzat törlése"
+
+#: 186.GuiPanel.ComboBox1.HelpText
+msgid "Display styles"
+msgstr "Stílusok megjelenítése"
+
+#: 227.ComboBox1.StringItemList
+msgctxt "227.ComboBox1.StringItemList"
+msgid "Default"
+msgstr "Alapértelmezett"
+
+#: 228.ComboBox1.StringItemList
+msgid "Outline"
+msgstr "Keret"
+
+#: 229.ComboBox1.StringItemList
+msgid "Rounded"
+msgstr "Lekerekített"
+
+#: 230.ComboBox1.StringItemList
+msgid "Without frame"
+msgstr "Körvonal nélkül"
+
+#: 187.GuiPanel.ComboBox1.Text
+msgctxt "187.GuiPanel.ComboBox1.Text"
+msgid "Default"
+msgstr "Alapértelmezett"
+
+#: 239.GuiPanel.ImageControl.HelpText
+msgid "Color of next element"
+msgstr "Következő elem színe"
+
+#: 693.GuiPanel.Text.Label
+msgid ""
+"Group\n"
+"name"
+msgstr ""
+"Ide\n"
+"írhat"
+
